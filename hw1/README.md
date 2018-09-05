@@ -1,4 +1,4 @@
-##### This folder contains the code and report for HW1.
+#### This folder contains the code and report for HW1.
 
 
 
