@@ -1,24 +1,28 @@
-This folder contains the code and report for HW1.
+##### This folder contains the code and report for HW1.
 
-### Code 
+
+
+## Code 
 
 The function for different files:
 
-- main.py    
+- ###### main.py    
 
   Hyperparameters are stored here, you can modify them for different experiment.
 
-- train.py
+- ###### train.py
 
   Behavioral Cloning and  DAgger algorithm are impliemented here.
 
-- model.py
+- ###### model.py
 
   The code use to define neural network.
 
-- plot.py
+- ###### plot.py
 
   The code use to generate figure for report.
+
+  ​
 
 
 
@@ -30,6 +34,6 @@ python main.py
 
 
 
-### Report
+## Report
 
 Please see [report.md](./report.md)
