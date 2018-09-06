@@ -4,7 +4,7 @@ In all of experiments below, we use the same network architecture as the expert.
 
 ## Problem 2.2
 
-At the beginning, we get 50 rollouts from the expert, then we let our model do Behavioral Cloning on these data.
+At the beginning, we sample 50 rollouts from the expert, then we let our model do Behavioral Cloning on these data.
 
 In the learning process, we do 50 epochs learning with Adam optimizer (batch size = 64, lr = 0.0001, weight_decay = 0.00001).
 

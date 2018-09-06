@@ -16,11 +16,11 @@ The function for different files:
 
 - ###### model.py
 
-  The code use to define neural network.
+  The code used for defining neural network.
 
 - ###### plot.py
 
-  The code use to generate figure for report.
+  The code used for generating figure in report.
 
   ​
 
